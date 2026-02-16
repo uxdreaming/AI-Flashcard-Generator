@@ -1,5 +1,7 @@
 # AI Flashcard Gen
 
+![AI Flashcard Gen](docs/cover.png)
+
 Smart flashcard generator optimized for spaced repetition from any study material. Built for anyone who studies — whether you're a student, a professional learning new skills, or a curious mind exploring new topics. Drop your material in any format, receive ready-to-use flashcards.
 
 ## Idea
