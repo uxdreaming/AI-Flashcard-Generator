@@ -10,6 +10,22 @@ Subís un PDF (apuntes, papers, documentación) y el sistema:
 3. Optimiza las flashcards para retención usando principios de spaced repetition
 4. Exporta en formatos compatibles con Anki u otras apps
 
+## Para quién es esto
+
+- **Estudiantes de idiomas** - Subís un texto en inglés/francés/etc y generás flashcards de vocabulario y gramática en contexto
+- **Estudiantes universitarios** - Convertís apuntes de clase o capítulos de libros en material de repaso listo para usar
+- **Profesionales técnicos** - Documentación, certificaciones, frameworks nuevos: extraés lo clave sin armar las cards a mano
+- **Autodidactas** - Cualquier persona que estudie con material propio y quiera acelerar la retención
+
+## Casos de uso
+
+| Escenario | Input | Output |
+|-----------|-------|--------|
+| Preparar un examen de biología | PDF de 40 páginas del capítulo | 50 flashcards con conceptos, definiciones y relaciones |
+| Aprender vocabulario en inglés | Artículo de The Guardian | Cards con palabras en contexto, significado y ejemplo de uso |
+| Estudiar para certificación AWS | Documentación oficial en PDF | Flashcards por servicio con preguntas tipo examen |
+| Repasar un paper de investigación | Paper de arxiv | Cards con hipótesis, metodología, hallazgos clave y limitaciones |
+
 ## Stack propuesto
 
 - **Python** - Backend y procesamiento
