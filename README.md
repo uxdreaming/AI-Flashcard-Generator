@@ -16,10 +16,9 @@ Upload your study material and the system will:
 |------------|--------------|
 | **PDF documents** | Direct text extraction from any PDF file |
 | **Handwritten notes** | OCR converts photos of handwritten notes into text |
-| **Voice / Audio** | AI transcription turns spoken notes or lectures into text |
 | **Other text formats** | Support for .txt, .md, .docx and other common formats |
 
-No matter how you take notes — typing, writing by hand, or speaking — the tool adapts to your workflow.
+No matter how you take notes — typing or writing by hand — the tool adapts to your workflow.
 
 ## Use cases
 
@@ -30,7 +29,6 @@ No matter how you take notes — typing, writing by hand, or speaking — the to
 | Studying for AWS certification | Official documentation PDF | Flashcards per service with exam-style questions |
 | Reviewing a research paper | Paper from arxiv | Cards with hypothesis, methodology, key findings and limitations |
 | Quick review after class | Photo of handwritten notes | Cards with key concepts extracted via OCR |
-| Reviewing a lecture | Audio recording of a class | Cards from transcribed content with main topics |
 
 ## Roadmap
 
@@ -42,7 +40,6 @@ No matter how you take notes — typing, writing by hand, or speaking — the to
 
 ### Phase 2 - Multi-format input
 - [ ] OCR for handwritten notes (image to text)
-- [ ] Audio/voice transcription (speech to text)
 - [ ] Support for .txt, .md, .docx formats
 
 ### Phase 3 - UI & Improvements
@@ -63,7 +60,7 @@ No matter how you take notes — typing, writing by hand, or speaking — the to
 AI-Flashcard-Generator/
 ├── src/              # Source code
 ├── data/             # Test files and generated outputs
-│   └── samples/      # Example inputs (OCR, audio, screenshots)
+│   └── samples/      # Example inputs (OCR, screenshots)
 ├── docs/             # Project documentation
 └── README.md
 ```

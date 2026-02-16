@@ -7,7 +7,6 @@ Example inputs and expected outputs demonstrating the different input methods su
 | File | Description |
 |------|-------------|
 | `ocr-handwritten-notes.md` | Simulated OCR output from a photo of handwritten UX Design notes, with expected flashcard output |
-| `audio-transcription.md` | Simulated AI transcription from a voice memo summarizing a Machine Learning lecture, with expected flashcard output |
 
 ## Purpose
 
