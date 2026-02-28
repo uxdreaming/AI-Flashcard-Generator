@@ -1,6 +1,7 @@
 # AI Flashcard Gen
 
 ![AI Flashcard Gen](docs/cover.png)
+![AI Flashcard Gen](docs/Flashcards.png)
 
 Smart flashcard generator optimized for spaced repetition from any study material. Built for anyone who studies — whether you're a student, a professional learning new skills, or a curious mind exploring new topics. Drop your material in any format, receive ready-to-use flashcards.
 
@@ -35,17 +36,17 @@ No matter how you take notes — typing or writing by hand — the tool adapts t
 ## Roadmap
 
 ### Phase 1 - MVP
-- [ ] Text extraction from PDF
-- [ ] Prompt engineering to generate flashcards from text
-- [ ] Basic JSON/CSV output
-- [ ] End-to-end working script
+- [x] Text extraction from PDF
+- [x] Prompt engineering to generate flashcards from text
+- [x] Basic JSON/CSV output
+- [x] End-to-end working script
 
 ### Phase 2 - Multi-format input
-- [ ] OCR for handwritten notes (image to text)
-- [ ] Support for .txt, .md, .docx formats
+- [x] OCR for handwritten notes (image to text)
+- [x] Support for .txt, .md formats
 
 ### Phase 3 - UI & Improvements
-- [ ] Interface for file uploads
+- [x] Interface for file uploads
 - [ ] Difficulty and flashcard count selector
 - [ ] Flashcard preview before export
 - [ ] Anki export format (.apkg)
